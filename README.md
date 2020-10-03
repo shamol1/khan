@@ -1,2 +1,3 @@
-# khan
-Hacking
+# Khan
+
+Khans == Coding Legends
